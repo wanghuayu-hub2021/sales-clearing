@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("salesClearingWpf")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ac375f2e453cde5d3986375e673beb3ccec6b44")]
 [assembly: System.Reflection.AssemblyProductAttribute("salesClearingWpf")]
 [assembly: System.Reflection.AssemblyTitleAttribute("salesClearingWpf")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
